@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Blaze Suppressor",
+  "description": "Replaces silly phrases with sillier phrases.",
+  "homepage_url": "https://github.com/penryu/blaze-suppressor/",
+  "version": "1.0",
+  "icons": {
+    "48": "icons/icon.png",
+    "96": "icons/icon@2x.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["./substitute.js"]
+    }
+  ]
+}
