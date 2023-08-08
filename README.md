@@ -9,6 +9,13 @@ pages in the `addons.mozilla.org` domain.**
 Replaces text about flamingly quick things with absurd synonyms. This runs as a
 content script and scans web pages, looking for text that can be replaced.
 
+## Where you can get it
+
+This repo is the source code behind the extension.
+
+You can install Blaze Suppressor directly from Firefox
+[here](https://addons.mozilla.org/en-US/firefox/addon/blaze-suppressor/).
+
 ## Acknowledgments
 
 The icon was created using [OpenMoji](https://openmoji.org/).
