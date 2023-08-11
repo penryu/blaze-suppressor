@@ -40,7 +40,7 @@ function selectResponse() {
   let fi = Math.floor(Math.random() * fastMap.length);
   let fast = fastMap[fi];
 
-  return `${blazing}${fast}`;
+  return `🔥${blazing}${fast}🔥`;
 }
 
 /**

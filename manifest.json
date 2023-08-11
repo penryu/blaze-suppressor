@@ -3,7 +3,12 @@
   "name": "Blaze Suppressor",
   "description": "Replaces silly phrases with sillier phrases.",
   "homepage_url": "https://github.com/penryu/blaze-suppressor/",
-  "version": "1.0",
+  "version": "1.1",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{48e26b53-f9a1-4a87-a83b-76fbc3aa8c2b}"
+    }
+  },
   "icons": {
     "48": "icons/icon.png",
     "96": "icons/icon@2x.png"
